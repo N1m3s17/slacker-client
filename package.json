@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello"
+  },
+  "author": "Semin Patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
