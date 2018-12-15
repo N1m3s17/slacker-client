@@ -86,13 +86,9 @@ input[type=password] {
 	font-size: 1.9rem;
 }
 
-button {
+input[type=submit] {
 	width: 55%;
 	font-size: 1.9rem;
-}
-
-#submit_button {
-	display: block;
 	text-align: center;
 }
 }
@@ -167,6 +163,10 @@ i {
 	float: left;
 	color: white;
 	background-color: #540491;
+}
+
+.channel_page_aside, p {
+	padding-left: 10px;
 }
 
 .main-section {

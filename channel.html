@@ -20,17 +20,17 @@
 
 	<section class="main-section">
 		<section id="messages-list">
-			<article class="message-row">
-				
-			</article>
 			
 		</section>
 
 		<footer>
+			<form id="message-form" method="POST" action="/message/new">
 			<textarea id="message" rows="4" cols="100" placeholder="Type message"></textarea>
+			<input type="hidden" id="user" value="Semin"></input>
+		</form>
 		</footer>
 		
 	</section>
-<script type="text/javascript" src="scripts/profile.js"></script>
+<script type="text/javascript" src="scripts/messages.js"></script>
 </body>
 </html>
