@@ -46,3 +46,18 @@ exit
 git status
 exit
 sudo vi /etc/host
+git status
+.git status
+.git init
+cd slacker-client
+ls -ld
+ls
+cd
+git init
+git add .
+git commit -m "updating"
+git status
+ls -ld
+ls
+ls ld
+exit
